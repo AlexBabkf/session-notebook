@@ -1,0 +1,1 @@
+Linux cli CheatSheet: https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/
