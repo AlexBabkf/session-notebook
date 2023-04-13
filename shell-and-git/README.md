@@ -1,1 +1,1 @@
-readme
+Links to cheatsheets for "shell and git" courses
